@@ -1,4 +1,4 @@
-# Chines Chess 中国象棋人机对战
+# Chinese Chess 中国象棋人机对战
 
 通过众触应用平台快速开发中国象棋应用。
 
